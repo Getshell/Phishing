@@ -22,6 +22,7 @@
 - https://github.com/winezer0/FishingAutoMonitor
 - https://github.com/5icorgi/SpoofWeb
 - https://github.com/tib36/PhishingBook
+- https://github.com/bingpo/FishingAutoMonitor
 
 ## 02-批量发送邮件
 
