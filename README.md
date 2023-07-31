@@ -1,10 +1,10 @@
-# Phishing-钓鱼研究
+# Phishing-网络钓鱼攻击
 
 ![Phishing](https://socialify.git.ci/Getshell/Phishing/image?description=1&descriptionEditable=Phishing-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%92%93%E9%B1%BC%E7%A0%94%E7%A9%B6&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 钓鱼不仅是一种户外运动，更是一种网络安全攻击技术。本项目用于记录钓鱼攻击的相关内容，包括优秀的钓鱼技术技巧或优秀的钓鱼实战项目案例等。钓鱼攻击源于技术，又高于技术。钓鱼攻击源于欺骗，欺骗的尽头是免杀。深入研究并积极实践社工技术，在很多场合往往可以产生意想不到的结果！致敬凯文！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月16日，最近的一次更新时间为2023年7月21日。
+本项目创建于2021年8月16日，最近的一次更新时间为2023年7月31日。
 
 - [01-钓鱼攻击资源](https://github.com/Getshell/Phishing#01-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E8%B5%84%E6%BA%90)
 - [02-钓鱼攻击技术](https://github.com/Getshell/Phishing#02-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF)
@@ -77,6 +77,7 @@
 
 一、批量发送邮件
 - https://github.com/chenjj/espoofer
+- https://github.com/Jinnrry/PMail
 
 二、钓鱼邮件模板
 
