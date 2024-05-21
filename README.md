@@ -2,9 +2,9 @@
 
 ![Phishing](https://socialify.git.ci/Getshell/Phishing/image?description=1&descriptionEditable=Phishing-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%92%93%E9%B1%BC%E7%A0%94%E7%A9%B6&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
-钓鱼不仅是一种户外运动，更是一种网络安全攻击技术。本项目用于记录钓鱼攻击的相关内容，包括优秀的钓鱼技术技巧或优秀的钓鱼实战项目案例等。钓鱼攻击源于技术，又高于技术。钓鱼攻击源于欺骗，欺骗的尽头是免杀。深入研究并积极实践社工技术，在很多场合往往可以产生意想不到的结果！致敬凯文！作者：[0e0w](https://github.com/0e0w)
+钓鱼不仅是一种户外运动，更是一种有效的网络安全攻击技术。本项目用于记录网络钓鱼攻击的相关内容，包括优秀的钓鱼技术工具技巧或优秀的钓鱼实战项目案例等。钓鱼攻击源于技术，又高于技术。钓鱼攻击源于欺骗，有高于欺骗。深入研究并积极实践社工技术，在很多实战项目中往往可以产生意想不到的结果！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月16日，最近的一次更新时间为2023年10月8日。
+本项目创建于2021年8月16日，最近的一次更新时间为2024年5月19日。
 
 - [01-钓鱼攻击资源](https://github.com/Getshell/Phishing#01-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E8%B5%84%E6%BA%90)
 - [02-钓鱼攻击技术](https://github.com/Getshell/Phishing#02-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF)
@@ -15,6 +15,8 @@
 ## 01-钓鱼攻击资源
 
 一、钓鱼书籍
+- [ ] [《Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails》](https://lira.epac.to/DOCS-TECH/Hacking/Phishing/Phishing%20Dark%20Waters.pdf)
+- [ ] [《The Phishing Guide Understanding & Preventing Phishing Attack》](https://nsi.org/ReferenceLibrary/630.pdf)@IBM
 
 二、钓鱼文章
 - [ ] https://xz.aliyun.com/t/12682
@@ -43,6 +45,7 @@
 - [ ] https://xz.aliyun.com/t/3526
 - [ ] https://xz.aliyun.com/t/153
 - [ ] https://xz.aliyun.com/t/12879
+- [ ] https://xz.aliyun.com/t/13287
 - [ ] https://www.freebuf.com/news/374367.html
 - [ ] https://www.ibm.com/cn-zh/topics/phishing
 - [ ] https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC/1401858
@@ -63,8 +66,9 @@
 - [ ] https://academy.binance.com/zh/articles/what-is-phishing
 - [ ] https://www.freebuf.com/tag/%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC
 
-三、钓鱼项目
+三、钓鱼资源
 - [ ] https://github.com/topics/phishing
+- [ ] https://github.com/tib36/PhishingBook
 - [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/rev1si0n/another-tmp-mailbox
 - [ ] https://github.com/makdosx/mip22
@@ -75,8 +79,29 @@
 - [ ] https://github.com/tib36/PhishingBook
 - [ ] https://github.com/bingpo/FishingAutoMonitor
 - [ ] https://www.freebuf.com/news/374367.html
+- [ ] https://github.com/Ignitetch/AdvPhishing
+- [ ] https://github.com/UndeadSec/SocialFish
+- [ ] https://github.com/rsmusllp/king-phisher
+- [ ] https://github.com/richardsonjf/shellphish
+- [ ] https://github.com/pentestgeek/phishing-frenzy
+- [ ] https://github.com/polkadot-js/phishing
+- [ ] https://github.com/ybdt/fish-hub
+- [ ] https://github.com/A10ha/EmailSender
 
-## 02-钓鱼攻击技术
+## 02-钓鱼攻击工具
+
+一、钓鱼平台
+- [ ] https://github.com/gophish/gophish
+- [ ] https://github.com/Raikia/FiercePhish
+
+二、邮件平台
+
+三、发信平台
+- [ ] https://github.com/SkewwG/henggeFish
+
+四、免杀平台
+
+## 03-钓鱼攻击技术
 
 一、批量发送邮件
 - https://github.com/chenjj/espoofer
@@ -84,18 +109,14 @@
 
 二、钓鱼邮件模板
 
+- https://github.com/criggs626/PhishingTemplates
+
 三、钓鱼网站制作
 - https://mp.weixin.qq.com/s/2QDLDuOS_ieknSgrF2bz2w
 
 四、钓鱼样本分析
 
 五、鱼钩隐藏技术
-
-## 03-钓鱼攻击工具
-
-一、优秀工具
-
-二、开源工具
 
 ## 04-钓鱼漏洞研究
 
