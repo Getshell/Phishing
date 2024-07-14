@@ -4,7 +4,7 @@
 
 钓鱼不仅是一种户外运动，更是一种有效的网络安全攻击技术。本项目用于记录网络钓鱼攻击的相关内容，包括优秀的钓鱼技术工具技巧或优秀的钓鱼实战项目案例等。钓鱼攻击源于技术，又高于技术。钓鱼攻击源于欺骗，有高于欺骗。深入研究并积极实践社工技术，在很多实战项目中往往可以产生意想不到的结果！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月16日，最近的一次更新时间为2024年5月19日。
+本项目创建于2021年8月16日，最近的一次更新时间为2024年7月14日。
 
 - [01-钓鱼攻击资源](https://github.com/Getshell/Phishing#01-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E8%B5%84%E6%BA%90)
 - [02-钓鱼攻击技术](https://github.com/Getshell/Phishing#02-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF)
@@ -46,6 +46,7 @@
 - [ ] https://xz.aliyun.com/t/153
 - [ ] https://xz.aliyun.com/t/12879
 - [ ] https://xz.aliyun.com/t/13287
+- [ ] https://xz.aliyun.com/t/15022
 - [ ] https://www.freebuf.com/news/374367.html
 - [ ] https://www.ibm.com/cn-zh/topics/phishing
 - [ ] https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC/1401858
