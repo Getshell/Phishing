@@ -4,7 +4,7 @@
 
 钓鱼不仅是一种户外运动，更是一种有效的网络安全攻击技术。本项目用于记录网络钓鱼攻击的相关内容，包括优秀的钓鱼技术工具技巧或优秀的钓鱼实战项目案例等。钓鱼攻击源于技术，又高于技术。钓鱼攻击源于欺骗，有高于欺骗。深入研究并积极实践社工技术，在很多实战项目中往往可以产生意想不到的结果！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月16日，最近的一次更新时间为2024年7月14日。
+本项目创建于2021年8月16日，最近的一次更新时间为2025年3月13日。
 
 - [01-钓鱼攻击资源](https://github.com/Getshell/Phishing#01-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E8%B5%84%E6%BA%90)
 - [02-钓鱼攻击技术](https://github.com/Getshell/Phishing#02-%E9%92%93%E9%B1%BC%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF)
@@ -46,7 +46,6 @@
 - [ ] https://xz.aliyun.com/t/153
 - [ ] https://xz.aliyun.com/t/12879
 - [ ] https://xz.aliyun.com/t/13287
-- [ ] https://xz.aliyun.com/t/15022
 - [ ] https://www.freebuf.com/news/374367.html
 - [ ] https://www.ibm.com/cn-zh/topics/phishing
 - [ ] https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC/1401858
@@ -66,18 +65,18 @@
 - [ ] https://www.icann.org/resources/pages/phishing-2013-05-03-zh
 - [ ] https://academy.binance.com/zh/articles/what-is-phishing
 - [ ] https://www.freebuf.com/tag/%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC
+- [ ] https://www.freebuf.com/defense/397029.html
 
-三、钓鱼资源
+三、钓鱼项目
 - [ ] https://github.com/topics/phishing
 - [ ] https://github.com/tib36/PhishingBook
 - [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/rev1si0n/another-tmp-mailbox
 - [ ] https://github.com/makdosx/mip22
 - [ ] https://github.com/SkewwG/henggeFish
-- [ ] https://github.com/taielab/Taie-AutoPhishing
+- [x] https://github.com/taielab/Taie-AutoPhishing
 - [ ] https://github.com/winezer0/FishingAutoMonitor
 - [ ] https://github.com/5icorgi/SpoofWeb
-- [ ] https://github.com/tib36/PhishingBook
 - [ ] https://github.com/bingpo/FishingAutoMonitor
 - [ ] https://www.freebuf.com/news/374367.html
 - [ ] https://github.com/Ignitetch/AdvPhishing
@@ -88,43 +87,49 @@
 - [ ] https://github.com/polkadot-js/phishing
 - [ ] https://github.com/ybdt/fish-hub
 - [ ] https://github.com/A10ha/EmailSender
+- [ ] https://app.zerossl.com
 
-## 02-钓鱼攻击工具
+## 02-钓鱼分析系统
 
 一、钓鱼平台
 - [ ] https://github.com/gophish/gophish
 - [ ] https://github.com/Raikia/FiercePhish
 
-二、邮件平台
+二、网站仿冒
 
-三、发信平台
-- [ ] https://github.com/SkewwG/henggeFish
+三、域名注册
 
-四、免杀平台
+四、证书认证
 
-## 03-钓鱼攻击技术
+## 03-钓鱼邮件系统
 
-一、批量发送邮件
+一、邮件系统
+
+二、发送邮件
+
 - https://github.com/chenjj/espoofer
 - https://github.com/Jinnrry/PMail
+- https://github.com/SkewwG/henggeFish
+- https://github.com/sumerzhang/PhishingInstall
 
 二、钓鱼邮件模板
 
 - https://github.com/criggs626/PhishingTemplates
 
-三、钓鱼网站制作
-- https://mp.weixin.qq.com/s/2QDLDuOS_ieknSgrF2bz2w
-
-四、钓鱼样本分析
-
 五、鱼钩隐藏技术
 
-## 04-钓鱼漏洞研究
+## 04-钓鱼免杀系统
+
+九、文件捆绑
+
+- https://forum.butian.net/share/1778
+
+## 05-钓鱼漏洞研究
 
 - https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed
 - https://github.com/j5s/CVE-2021-40444
 
-## 05-钓鱼技术参考
+## 06-钓鱼技术参考
 
 - https://github.com/Getshell/BypassAV
 
